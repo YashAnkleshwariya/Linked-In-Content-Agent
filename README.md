@@ -3,7 +3,7 @@
 An AI-driven LinkedIn post generator built with **Google Gemini 2.5 Flash** and **Streamlit**.  
 This app helps users create engaging, professional LinkedIn posts by providing topic, tone, and audience inputs — while also offering an **Admin Dashboard** to manage users and monitor activity.
 
----
+----
 
 ## 🧠 Overview
 
