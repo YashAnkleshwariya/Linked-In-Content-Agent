@@ -40,6 +40,3 @@ The LinkedIn AI Content Creator is designed for:
 - **Env Management:** python-dotenv  
 
 ---
-
-## 🧩 Project Structure
-
