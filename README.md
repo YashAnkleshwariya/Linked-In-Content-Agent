@@ -13,7 +13,6 @@ The LinkedIn AI Content Creator is designed for:
 - Admins who want secure control over who uses the app
 
 🔐 **Authentication System Includes**
-- A fixed **Admin Login** → Username: `Admin`, Password: `Poiu1234@@`
 - **User Registration & Login** with secure password hashing (`bcrypt`)
 - **Admin Dashboard** for managing users and tracking post-generation usage
 
