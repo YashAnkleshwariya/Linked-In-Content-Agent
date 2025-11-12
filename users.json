@@ -1,15 +1,1 @@
-{
-  "admin": {
-    "password": "$2b$12$U1r3ESLsNMdckpuhzT7Xou047wRA11DRfpj768DXkMO7rbAjkIyRC",
-    "role": "admin"
-  },
-  "yashankl9274@gmail.com": {
-    "password": "$2b$12$BvKn4tbrPJ0x4LAyC/OUROthOjetN43MDHCFlyU/FTfJg9j.D6Sje",
-    "role": "user"
-  },
-  "yashankl927@gmail.com": {
-    "password": "$2b$12$CL24y7mQEUfMmfFzoq/zFu2APj73XxKQOqxi9r2ylgoWHKhyXxaLy",
-    "role": "user",
-    "usage": 0
-  }
-}
+
